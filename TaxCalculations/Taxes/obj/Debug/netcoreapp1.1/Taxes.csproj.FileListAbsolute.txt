@@ -1,7 +1,0 @@
-C:\Users\Yoana\source\repos\TaxCalculations\Taxes\bin\Debug\netcoreapp1.1\Taxes.deps.json
-C:\Users\Yoana\source\repos\TaxCalculations\Taxes\obj\Debug\netcoreapp1.1\Taxes.csproj.CoreCompileInputs.cache
-C:\Users\Yoana\source\repos\TaxCalculations\Taxes\obj\Debug\netcoreapp1.1\Taxes.AssemblyInfo.cs
-C:\Users\Yoana\source\repos\TaxCalculations\Taxes\bin\Debug\netcoreapp1.1\Taxes.dll
-C:\Users\Yoana\source\repos\TaxCalculations\Taxes\bin\Debug\netcoreapp1.1\Taxes.pdb
-C:\Users\Yoana\source\repos\TaxCalculations\Taxes\obj\Debug\netcoreapp1.1\Taxes.dll
-C:\Users\Yoana\source\repos\TaxCalculations\Taxes\obj\Debug\netcoreapp1.1\Taxes.pdb
