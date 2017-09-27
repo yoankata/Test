@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxesTests", "Tests\TaxesTe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taxes", "Taxes\Taxes.csproj", "{CD747C13-44E1-4AD4-B656-4C88D7FD505C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculationConsole", "ConsoleApp1\TaxCalculationConsole.csproj", "{809BB199-7AB6-4C1C-891F-1C2AD38A6B15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculationConsole", "TaxCalculationConsole\TaxCalculationConsole.csproj", "{809BB199-7AB6-4C1C-891F-1C2AD38A6B15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
